@@ -1,0 +1,5 @@
+http://sfbay.craigslist.org/search/apa?query=95032&max_price=3000&bedrooms=2&availabilityMode=1
+http://sfbay.craigslist.org/search/apa?query=95124&max_price=3000&bedrooms=2&availabilityMode=1
+http://sfbay.craigslist.org/search/apa?query=95030&max_price=3000&bedrooms=2&availabilityMode=1
+http://sfbay.craigslist.org/search/apa?query=95118&max_price=3000&bedrooms=2&availabilityMode=1
+http://sfbay.craigslist.org/search/apa?query=95120&max_price=3000&bedrooms=2&availabilityMode=1
